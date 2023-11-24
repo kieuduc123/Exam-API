@@ -1,0 +1,16 @@
+﻿Phân tích vấn đề từ góc độ của một nhà phát triển phần mềm:
+
+Công nghệ: Tôi sẽ chọn ASP.NET Core với Entity Framework Core để xây dựng website và API. Lý do:
+1.Hiệu suất: ASP.NET Core được tối ưu hóa để cung cấp hiệu suất tốt hơn so với các phiên bản trước đó. Nó có thể xử lý tải lớn và có khả năng mở rộng tốt, đặc biệt là trong môi trường đám mây.
+
+2.Đa nền tảng: ASP.NET Core hỗ trợ đa nền tảng, điều này có nghĩa là ứng dụng có thể chạy trên nhiều hệ điều hành như Windows, Linux và macOS.
+
+3.Tích hợp tốt: Nó tích hợp tốt với công cụ phát triển và các dịch vụ đám mây như Azure, cung cấp cho nhà phát triển sự linh hoạt trong việc triển khai và quản lý ứng dụng.
+
+4.Community mạnh mẽ: Có một cộng đồng lớn hỗ trợ ASP.NET Core, điều này có nghĩa là bạn có thể tìm thấy nhiều tài liệu, hướng dẫn và thậm chí là các thư viện bổ sung để giúp việc phát triển diễn ra một cách dễ dàng hơn.
+
+5.Entity Framework Core: Được tích hợp sẵn trong ASP.NET Core, Entity Framework Core cung cấp một cách tiếp cận dễ dàng để tương tác với cơ sở dữ liệu. Nó hỗ trợ nhiều loại cơ sở dữ liệu khác nhau và giúp tiết kiệm thời gian trong việc viết mã.
+
+6.Bảo mật: ASP.NET Core có các tính năng bảo mật tích hợp sẵn, giúp bảo vệ ứng dụng của bạn khỏi các cuộc tấn công thông thường.
+
+7.Công cụ phát triển: Có sẵn nhiều công cụ phát triển hỗ trợ cho ASP.NET Core, từ các IDE như Visual Studio đến các công cụ mã nguồn mở như Visual Studio Code.
